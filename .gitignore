@@ -1,0 +1,14 @@
+# virtual environment
+venv/
+.venv/
+
+# Environment variable and API keys
+.env
+
+# python-generated files
+__pycache__/
+*.__pyc
+
+# Operating-system files
+.DS_Store
+Thumbs.db
